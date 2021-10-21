@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRTlibReleaseNotesCompiler", "IRTlibReleaseNotesCompiler\ReleaseNotesCompiler.csproj", "{EB90D8FA-F747-4BF8-92AB-0ADDB752495A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB90D8FA-F747-4BF8-92AB-0ADDB752495A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB90D8FA-F747-4BF8-92AB-0ADDB752495A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB90D8FA-F747-4BF8-92AB-0ADDB752495A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB90D8FA-F747-4BF8-92AB-0ADDB752495A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8467D3F7-C161-4C6F-8163-85EEB9C700C3}
+	EndGlobalSection
+EndGlobal
